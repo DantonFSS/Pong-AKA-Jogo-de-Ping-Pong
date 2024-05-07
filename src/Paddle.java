@@ -38,6 +38,7 @@ public class Paddle extends Rectangle {
                 break;
         }
     }
+
     public void keyReleased(KeyEvent e) {
         switch (id) {
             case 1:
